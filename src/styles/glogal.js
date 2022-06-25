@@ -15,8 +15,8 @@ export default createGlobalStyle`
  --blue: #69d2cd;
  --lightblue: #b9f1d6;
  --beige: #f1f6ce;
- --fontBlack: #070707
- --snowWhite: #F3F3F3
+ --fontBlack: #070707;
+ --snowWhite: #f3f3f3;
 }
 
 
